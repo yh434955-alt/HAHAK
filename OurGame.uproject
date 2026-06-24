@@ -16,6 +16,13 @@
 			"Enabled": true
 		},
 		{
+<<<<<<< Updated upstream
+=======
+			"Name": "ComputeFramework",
+			"Enabled": true
+		},
+		{
+>>>>>>> Stashed changes
 			"Name": "Optimus",
 			"Enabled": true
 		}
